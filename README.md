@@ -3,12 +3,12 @@
 I Make All Sorts Of Projects, Please Use The Reference Below;
 
 ## Css
-#### [Coming Soon]()
+### [Coming Soon]()
 ## Python
-#### [Coming Soon]()
+### [Coming Soon]()
 ## Json
-#### [Discord Bot Soon Public]()
+### [Discord Bot Soon Public]()
 ## Lua
-#### [Roblox Projects](home)
-#### [Coming Soon]()
+### [Roblox Projects](home)
+### [Coming Soon]()
 
